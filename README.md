@@ -1,4 +1,4 @@
-# github--research
+# github--search
 # Github搜索技巧
 
 ## 1 关键字 in
